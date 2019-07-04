@@ -1,2 +1,2 @@
-# jogo-da-velha
-Um simples jogo da velha em python
+# Jogo-da-velha
+um jogo da velha bem basico 
